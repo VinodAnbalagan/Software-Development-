@@ -35,7 +35,7 @@ This section contains Java programs demonstrating key programming concepts, incl
    - An enhanced version of the coffee machine project that incorporates exception handling for robust functionality.  
 
 7. [**Files - Personal Ideas Tracker**](https://github.com/VinodAnbalagan/Software-Development-/tree/d45d6022526a866bb76fc53df8321142ec95bc14/Files%20-%20Personal%20Ideas%20Tracker) 
-   - A file-handling program to manage personal expense records.  
+   - A file-handling program to records ideas.  
 
 8. [**Files - Book Management System**](https://github.com/VinodAnbalagan/Software-Development-/tree/d45d6022526a866bb76fc53df8321142ec95bc14/Files%20-%20Book%20Management%20System)  
    - A program to organize and manage book details using file operations.  
