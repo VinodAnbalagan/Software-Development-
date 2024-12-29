@@ -19,7 +19,7 @@ This section contains Java programs demonstrating key programming concepts, incl
 1. [**Zoo Implementation**](https://github.com/VinodAnbalagan/Software-Development-/tree/8164fcd000ba028d6c9b44df9ba532826b4bf4ad/Zoo)  
    - A simple application simulating a zoo's animal management system.  
 
-2. **BMI Calculator**  
+2. [**BMI Calculator**](https://github.com/VinodAnbalagan/Software-Development-/tree/efc535792848f6d42e2bd99c97ccaf8ec3db17f0/BMI%20Calculator)
    - A program that calculates Body Mass Index based on user inputs.  
 
 3. **Coffee Machine**  
