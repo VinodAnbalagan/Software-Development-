@@ -26,18 +26,15 @@ This section contains Java programs demonstrating key programming concepts, incl
    - A simulation of a coffee vending machine with interactive functionality.  
 
 4. [**Robot Access Modifiers**](https://github.com/VinodAnbalagan/Software-Development-/tree/3315132a975c924e8541bb3c294dcd09f73d0a93/Robot_Access%20Modifiers) 
-   - A demonstration of access modifiers in Java using a robot-themed example.  
+   - A demonstration of access modifiers in Java using a robot-themed example.    
 
-5. [**Shape Metric Calculator**](https://github.com/VinodAnbalagan/Software-Development-/tree/3315132a975c924e8541bb3c294dcd09f73d0a93/ShapeMetricCalculaor)
-   - Calculates area, perimeter, and other metrics for various shapes.  
-
-6. [**Coffee Machine with Exception Handling**](https://github.com/VinodAnbalagan/Software-Development-/tree/3315132a975c924e8541bb3c294dcd09f73d0a93/Coffee%20Machine%20Handling%20Exceptions)
+5. [**Coffee Machine with Exception Handling**](https://github.com/VinodAnbalagan/Software-Development-/tree/3315132a975c924e8541bb3c294dcd09f73d0a93/Coffee%20Machine%20Handling%20Exceptions)
    - An enhanced version of the coffee machine project that incorporates exception handling for robust functionality.  
 
-7. [**Files - Personal Ideas Tracker**](https://github.com/VinodAnbalagan/Software-Development-/tree/d45d6022526a866bb76fc53df8321142ec95bc14/Files%20-%20Personal%20Ideas%20Tracker) 
+6. [**Files - Personal Ideas Tracker**](https://github.com/VinodAnbalagan/Software-Development-/tree/d45d6022526a866bb76fc53df8321142ec95bc14/Files%20-%20Personal%20Ideas%20Tracker) 
    - A file-handling program to records ideas.  
 
-8. [**Files - Book Management System**](https://github.com/VinodAnbalagan/Software-Development-/tree/d45d6022526a866bb76fc53df8321142ec95bc14/Files%20-%20Book%20Management%20System)  
+7. [**Files - Book Management System**](https://github.com/VinodAnbalagan/Software-Development-/tree/d45d6022526a866bb76fc53df8321142ec95bc14/Files%20-%20Book%20Management%20System)  
    - A program to organize and manage book details using file operations.  
 
 ---
