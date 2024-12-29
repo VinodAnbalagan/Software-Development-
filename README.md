@@ -22,22 +22,22 @@ This section contains Java programs demonstrating key programming concepts, incl
 2. [**BMI Calculator**](https://github.com/VinodAnbalagan/Software-Development-/tree/efc535792848f6d42e2bd99c97ccaf8ec3db17f0/BMI%20Calculator)
    - A program that calculates Body Mass Index based on user inputs.  
 
-3. **Coffee Machine**  
+3. [**Coffee Machine**](https://github.com/VinodAnbalagan/Software-Development-/tree/3315132a975c924e8541bb3c294dcd09f73d0a93/Coffee%20Machine)
    - A simulation of a coffee vending machine with interactive functionality.  
 
-4. **Robot Access Modifiers**  
+4. [**Robot Access Modifiers**](https://github.com/VinodAnbalagan/Software-Development-/tree/3315132a975c924e8541bb3c294dcd09f73d0a93/Robot_Access%20Modifiers) 
    - A demonstration of access modifiers in Java using a robot-themed example.  
 
-5. **Shape Metric Calculator**  
+5. [**Shape Metric Calculator**](https://github.com/VinodAnbalagan/Software-Development-/tree/3315132a975c924e8541bb3c294dcd09f73d0a93/ShapeMetricCalculaor)
    - Calculates area, perimeter, and other metrics for various shapes.  
 
-6. **Coffee Machine with Exception Handling**  
+6. [**Coffee Machine with Exception Handling**](https://github.com/VinodAnbalagan/Software-Development-/tree/3315132a975c924e8541bb3c294dcd09f73d0a93/Coffee%20Machine%20Handling%20Exceptions)
    - An enhanced version of the coffee machine project that incorporates exception handling for robust functionality.  
 
-7. **Files - Personal Expense Tracker**  
+7. [**Files - Personal Ideas Tracker**](https://github.com/VinodAnbalagan/Software-Development-/tree/d45d6022526a866bb76fc53df8321142ec95bc14/Files%20-%20Personal%20Ideas%20Tracker) 
    - A file-handling program to manage personal expense records.  
 
-8. **Files - Book Manager**  
+8. [**Files - Book Management System**](https://github.com/VinodAnbalagan/Software-Development-/tree/d45d6022526a866bb76fc53df8321142ec95bc14/Files%20-%20Book%20Management%20System)  
    - A program to organize and manage book details using file operations.  
 
 ---
