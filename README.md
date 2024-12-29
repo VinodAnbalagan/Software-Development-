@@ -16,7 +16,7 @@ This repository is dedicated to projects and code samples in **Java**, **SQL**, 
 ### **Java Projects**  
 This section contains Java programs demonstrating key programming concepts, including object-oriented programming, file handling, and exception management.  
 
-1. **Zoo Implementation**  
+1. [**Zoo Implementation**](https://github.com/VinodAnbalagan/Software-Development-/tree/8164fcd000ba028d6c9b44df9ba532826b4bf4ad/Zoo)  
    - A simple application simulating a zoo's animal management system.  
 
 2. **BMI Calculator**  
