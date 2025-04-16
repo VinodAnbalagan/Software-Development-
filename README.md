@@ -64,6 +64,4 @@ Feel free to explore the code in this repository. Each project folder contains:
 - Instructions for running the program.  
 - The source code files.  
 
----
 
-Thank you for visiting my Software Development repository! 🚀
