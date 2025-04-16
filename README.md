@@ -1,13 +1,8 @@
 # Coding Repository  
 
-Welcome to my **Coding** repository! 🎉  
-This repository showcases projects and exercises from my journey as I complete the **Amazon Junior Software Developer Certification** and explore software development topics through self-learning.
-
----
-
 ## 🚀 About the Repository  
 
-This repository is dedicated to projects and code samples in **Java**, **SQL**, and **Full-Stack Development**. It reflects my progression in software development, covering a variety of concepts, implementations, and problem-solving exercises.
+This repository is dedicated to projects and code samples in **Java**, **SQL**, **Rust** and **Cloud Techologies**. It reflects my progression in software development, covering a variety of concepts, implementations, and problem-solving exercises.
 
 ---
 
@@ -36,24 +31,13 @@ This section contains Java programs demonstrating key programming concepts, incl
 
 ---
 
-### **SQL**  
-*Coming soon:*  
-SQL scripts and database management exercises from the certification program.
-
----
-
-### **Full-Stack Development**  
-*Coming soon:*  
-Full-stack projects integrating frontend and backend technologies.
-
----
-
 ## 🌟 Future Plans  
 
-I aim to continuously enhance this repository by adding projects from the certification course and personal learning initiatives. Planned additions include:  
-- Advanced Java applications  
+I aim to continuously enhance this repository by adding projects from personal learning initiatives. Planned additions include:  
+- Java applications  
 - SQL-based database management projects  
-- Full-stack projects (frontend and backend integration)  
+- Rust
+- Cloud Implementations
 
 ---
 
